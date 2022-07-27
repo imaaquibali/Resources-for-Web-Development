@@ -15,18 +15,21 @@
 - [Tools]()
 - [Projects]()
 
+---
 
 # Courses
 
 <h2>Basic of Web Development : -</h2>
-<p>I tried so many courses but these are the courses that are really helped me & you to </p>
+<p><b>I tried so many courses but these are the courses that are really helped me & you to</b></p>
 
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Scrimba](https://scrimba.com)
-- [CSS](https://www.kevinpowell.co)
-- [React](https://www.youtube.com/plylist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+| Sr No. | Name | 
+|---|---|
+| 1 | [FreecodeCamp](https://www.freecodecamp.org/)  |
+| 2 | [Scrimba](https://scrimba.com) |
+| 2 | [CSS](https://www.kevinpowell.co) |
+| 2 | [React](https://www.youtube.com/plylist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)|
 
-<p>Some other courses: - </p>
+<p><b>Some other courses: - </b></p>
 
 - Advanced JavaScript 
     - 1.https://www.youtube.com/playlist?list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI
